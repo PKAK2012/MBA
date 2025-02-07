@@ -28,7 +28,7 @@ Column Description:
 18. Preferred Learning Mode – Whether the applicant prefers an Online or On-Campus MBA.
 
 Objective:
-The main objective of this dataset to prdeict the interset of individual in purusing the MBA.
+The main objective of this dataset to perdict the interset of individual in purusing the MBA.
 
 Machine learning Approcach
 In this dataset,Decided to Pursue MBA? is the target 
